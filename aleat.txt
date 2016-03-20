@@ -1,0 +1,22 @@
+#################################################################
+
+Genera numeros aleatorios y los compara con 0.5 
+
+Repite el proceso 5 veces 
+
+##################################################################
+
+
+
+El numero es : 0.4830962894484401
+MENOR QUE 0.5
+El numero es : 0.45173993497155607
+MENOR QUE 0.5
+El numero es : 0.8375308255199343
+MAYOR  que 0.5
+El numero es : 0.6231469782069325
+MAYOR  que 0.5
+El numero es : 0.2964124174322933
+MENOR QUE 0.5
+
+
