@@ -20,3 +20,99 @@ El numero es : 0.2964124174322933
 MENOR QUE 0.5
 
 
+#################################################################
+
+Genera numeros aleatorios y los compara con 0.5 
+
+Repite el proceso 10 veces 
+
+##################################################################
+
+
+
+El numero es : 0.8317157293204218
+MAYOR  que 0.5
+El numero es : 0.22706880327314138
+MENOR QUE 0.5
+El numero es : 0.22468700050376356
+MENOR QUE 0.5
+El numero es : 0.7686841511167586
+MAYOR  que 0.5
+El numero es : 0.6459897104650736
+MAYOR  que 0.5
+El numero es : 0.30390365910716355
+MENOR QUE 0.5
+El numero es : 0.49802278028801084
+MENOR QUE 0.5
+El numero es : 0.017945389728993177
+MENOR QUE 0.5
+El numero es : 0.4780634136404842
+MENOR QUE 0.5
+El numero es : 0.376035408815369
+MENOR QUE 0.5
+
+
+#################################################################
+
+Genera numeros aleatorios y los compara con 0.5 
+
+Repite el proceso 10 veces 
+
+##################################################################
+
+
+
+El numero es : 0.8055204208940268
+MAYOR  que 0.5
+El numero es : 0.6770640115719289
+MAYOR  que 0.5
+El numero es : 0.7207149921450764
+MAYOR  que 0.5
+El numero es : 0.6090497521217912
+MAYOR  que 0.5
+El numero es : 0.3276799228042364
+MENOR QUE 0.5
+El numero es : 0.17413779185153544
+MENOR QUE 0.5
+El numero es : 0.40182514558546245
+MENOR QUE 0.5
+El numero es : 0.06709962990134954
+MENOR QUE 0.5
+El numero es : 0.2640701055061072
+MENOR QUE 0.5
+El numero es : 0.6063748328015208
+MAYOR  que 0.5
+
+
+#################################################################
+
+Genera numeros aleatorios y los compara con 0.5 
+
+Repite el proceso 10 veces 
+
+##################################################################
+
+
+
+El numero es : 0.0028913759160786867
+MENOR QUE 0.5
+El numero es : 0.0915385668631643
+MENOR QUE 0.5
+El numero es : 0.5954187603201717
+MAYOR  que 0.5
+El numero es : 0.8837558880914003
+MAYOR  que 0.5
+El numero es : 0.4297504636924714
+MENOR QUE 0.5
+El numero es : 0.02462819148786366
+MENOR QUE 0.5
+El numero es : 0.8626993608195335
+MAYOR  que 0.5
+El numero es : 0.1907785322982818
+MENOR QUE 0.5
+El numero es : 0.0508065540343523
+MENOR QUE 0.5
+El numero es : 0.42134262598119676
+MENOR QUE 0.5
+
+
