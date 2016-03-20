@@ -116,3 +116,155 @@ El numero es : 0.42134262598119676
 MENOR QUE 0.5
 
 
+#################################################################
+
+Genera numeros aleatorios y los compara con 0.5 
+
+Repite el proceso 10 veces 
+
+##################################################################
+
+
+
+El numero es : 0.5758419339545071
+MAYOR  que 0.5
+El numero es : 0.11222211830317974
+MENOR QUE 0.5
+El numero es : 0.21294880588538945
+MENOR QUE 0.5
+El numero es : 0.7393494197167456
+MAYOR  que 0.5
+El numero es : 0.13267453759908676
+MENOR QUE 0.5
+El numero es : 0.3007453018799424
+MENOR QUE 0.5
+El numero es : 0.70812056818977
+MAYOR  que 0.5
+El numero es : 0.9865434227976948
+MAYOR  que 0.5
+El numero es : 0.33979336079210043
+MENOR QUE 0.5
+El numero es : 0.6655081594362855
+MAYOR  que 0.5
+ ------------------------------------------------ 
+
+Los numero aleatorios han salido 5 veces mayor que 0.5
+Los numero aleatorios han salido 5 veces MENOR que 0.5
+ ------------------------------------------------ 
+
+
+
+#################################################################
+
+Genera numeros aleatorios y los compara con 0.5 
+
+Repite el proceso 10 veces 
+
+##################################################################
+
+
+
+El numero es : 0.24884692789055407
+MENOR QUE 0.5
+El numero es : 0.8032039045356214
+MAYOR  que 0.5
+El numero es : 0.04936726437881589
+MENOR QUE 0.5
+El numero es : 0.3826832426711917
+MENOR QUE 0.5
+El numero es : 0.759839981328696
+MAYOR  que 0.5
+El numero es : 0.04194230865687132
+MENOR QUE 0.5
+El numero es : 0.5833284328691661
+MAYOR  que 0.5
+El numero es : 0.5990479583851993
+MAYOR  que 0.5
+El numero es : 0.6597939752973616
+MAYOR  que 0.5
+El numero es : 0.9648704708088189
+MAYOR  que 0.5
+ ------------------------------------------------ 
+
+Los numero aleatorios han salido 6 veces mayor que 0.5
+Los numero aleatorios han salido 4 veces MENOR que 0.5
+ ------------------------------------------------ 
+
+
+
+#################################################################
+
+Genera numeros aleatorios y los compara con 0.5 
+
+Repite el proceso 10 veces 
+
+##################################################################
+
+
+
+El numero es : 0.4501260044053197
+MENOR QUE 0.5
+El numero es : 0.05571042909286916
+MENOR QUE 0.5
+El numero es : 0.06582818971946836
+MENOR QUE 0.5
+El numero es : 0.16459097620099783
+MENOR QUE 0.5
+El numero es : 0.9942121938802302
+MAYOR  que 0.5
+El numero es : 0.9245900912210345
+MAYOR  que 0.5
+El numero es : 0.16149765439331532
+MENOR QUE 0.5
+El numero es : 0.8415140733122826
+MAYOR  que 0.5
+El numero es : 0.15172158647328615
+MENOR QUE 0.5
+El numero es : 0.4649235780816525
+MENOR QUE 0.5
+ ------------------------------------------------ 
+
+Los numero aleatorios han salido 3 veces mayor que 0.5
+Los numero aleatorios han salido 7 veces MENOR que 0.5
+ ------------------------------------------------ 
+
+
+
+#################################################################
+
+Genera numeros aleatorios y los compara con 0.5 
+
+Repite el proceso 10 veces 
+
+##################################################################
+
+
+
+El numero es : 0.7387294005602598
+MAYOR  que 0.5
+El numero es : 0.9217262112069875
+MAYOR  que 0.5
+El numero es : 0.2531496256124228
+MENOR QUE 0.5
+El numero es : 0.27650170493870974
+MENOR QUE 0.5
+El numero es : 0.6208533416502178
+MAYOR  que 0.5
+El numero es : 0.22259881487116218
+MENOR QUE 0.5
+El numero es : 0.306952313054353
+MENOR QUE 0.5
+El numero es : 0.42356481845490634
+MENOR QUE 0.5
+El numero es : 0.4978202998172492
+MENOR QUE 0.5
+El numero es : 0.7992698338348418
+MAYOR  que 0.5
+ ------------------------------------------------ 
+
+Los numero aleatorios han salido 4 veces mayor que 0.5
+Los numero aleatorios han salido 6 veces MENOR que 0.5
+ ------------------------------------------------ 
+
+
+
