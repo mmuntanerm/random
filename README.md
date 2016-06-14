@@ -22,3 +22,44 @@ A la vez trato <br>
   <li> del README.md</li>
 </ul> 
 
+### Es possible incloure taules 
+
+Això es un taula 
+
+| Nom      | Cognom      | Rango                          |
+|:---------|:-----------:|-------------------------------:|
+| User1    | cognom1     | Admin                          |
+| User2    | cognom2     | Usuari                         |
+
+
+també es possible posar una taula així, sense composar-la durant l'edició:
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+i es veu correctament 
+
+I que passa si s'usa HTML?
+
+<table>
+	<tr>
+
+  		<td> <h4>Concepte</h4> </td> 
+  		<td> <h4> Valor </h4></td>
+  
+	</th>
+	<tr>
+		<td> <b>Test de README.md</b>  </td> 
+		<td> una altra dada</td>
+	</tr>
+	<tr>
+		<td> 1122 </td> <td> 222</td>
+	</tr>
+</table>
+
+
+---
+`code hihglights`
+Este texto está resaltado! 
